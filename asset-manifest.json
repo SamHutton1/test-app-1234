@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.073c9b0a.css",
-    "main.js": "/react-gh-pages/static/js/main.04267571.js",
-    "static/js/787.ad0b42e2.chunk.js": "/react-gh-pages/static/js/787.ad0b42e2.chunk.js",
-    "static/media/test.jpg": "/react-gh-pages/static/media/test.8cd937e76828dc453067.jpg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.073c9b0a.css.map": "/react-gh-pages/static/css/main.073c9b0a.css.map",
-    "main.04267571.js.map": "/react-gh-pages/static/js/main.04267571.js.map",
-    "787.ad0b42e2.chunk.js.map": "/react-gh-pages/static/js/787.ad0b42e2.chunk.js.map"
+    "main.css": "/test-app-1234/static/css/main.073c9b0a.css",
+    "main.js": "/test-app-1234/static/js/main.b3fa200f.js",
+    "static/js/787.ad0b42e2.chunk.js": "/test-app-1234/static/js/787.ad0b42e2.chunk.js",
+    "static/media/test.jpg": "/test-app-1234/static/media/test.8cd937e76828dc453067.jpg",
+    "index.html": "/test-app-1234/index.html",
+    "main.073c9b0a.css.map": "/test-app-1234/static/css/main.073c9b0a.css.map",
+    "main.b3fa200f.js.map": "/test-app-1234/static/js/main.b3fa200f.js.map",
+    "787.ad0b42e2.chunk.js.map": "/test-app-1234/static/js/787.ad0b42e2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.04267571.js"
+    "static/js/main.b3fa200f.js"
   ]
 }
